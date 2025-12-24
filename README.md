@@ -4,7 +4,7 @@ I am an Economics graduate and Data Analytics professional passionate about turn
 With a strong analytical mindset and a commitment to continuous learning, I focus on helping organizations understand their data, solve problems, and make smarter, evidence-based decisions.
 ## Skills
 Data Visualization - (Power BI, Excel)
-
+![Image](wellLife Hospital Dashboard.jpeg)
 Dashboard and Reporting
 
 ## Project
