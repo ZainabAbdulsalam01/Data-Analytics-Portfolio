@@ -9,7 +9,9 @@ Data Cleaning and Tranformation
 Data Visualization - (Power BI, Excel)
 
 Dashboard and Report Building
-![Image](wellLife Hospital Dashboard.jpeg)
+
+A selection of Dashboards I have designed and Developed
+![Image](well-life hosp2.jpeg)
 
 ## MY PROJECTS
 
