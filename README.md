@@ -13,7 +13,7 @@ Dashboard and Report Building
 A selection of Dashboards I have designed and Developed
 ![Image](well-life hosp2.jpeg)
 ![Image](Oil Rig Dashboard.jpeg)
-
+![Image](HR Attrition Dashboard.jpeg)
 ## MY PROJECTS
 
 ## Contact
