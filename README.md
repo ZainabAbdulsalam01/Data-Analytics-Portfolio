@@ -14,9 +14,10 @@ A selection of Dashboards I have designed and Developed
 
 ![Image](well-life hosp2.jpeg) ![Image](Oil Rig Dashboard.jpeg) ![Image](HR Attrition Dashboard.jpeg)
 
-## MY PROJECTS
 
-# Students' Performance Analysis
+# MY PROJECTS
+
+## Students' Performance Analysis
 
 In this project, I analyzed student academic performance at Bright International Schools during the 2024/2025 academic session. The objective was to identify key factors influencing student outcomes and provide data-driven recommendations to improve academic performance, enhance student retention, and support increased enrollment.
 Data from a dataset of 1,000 students indicates an overall average student score of 67.77%. The analysis reveals that test preparation, lunch type (a proxy for socioeconomic status), parental education level, and race/ethnicity have measurable impacts on student performance.
