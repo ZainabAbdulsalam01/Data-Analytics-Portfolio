@@ -22,7 +22,7 @@ In this project, I analyzed student academic performance at Bright International
 Data from a dataset of 1,000 students indicates an overall average student score of 67.77%. The analysis reveals that test preparation, lunch type (a proxy for socioeconomic status), parental education level, and race/ethnicity have measurable impacts on student performance.
 Key findings show that students who completed a test preparation course achieved an average score of 72.67%, outperforming those who did not (65.04%) by 7.63 percentage points. Similarly, students with standard lunch options scored 70.84%, compared to 62.20% for students on free/reduced lunch, a gap of 8.64 percentage points, highlighting the influence of socioeconomic factors.
 Parental education also plays a significant role. Students whose parents held a Master’s degree achieved average score of (73.60%). The analysis suggests that combining test preparation programs and improved nutrition access could increase the overall average score from 67.77% to 75.51%. With stronger parental engagement and educational support, average performance could rise further to 82.63%.
-Improving academic outcomes through these interventions is expected to strengthen the school’s reputation, leading to higher student enrollment and retention.
+Improving academic outcomes through these interventions is expected to strengthen the school’s reputation, leading to higher student enrollment and retention. [View Report Here](https://drive.google.com/file/d/1lUpKFwB76FUr5N4oTAff5mus-Egkzanr/view?usp=sharing)
 
 ![Image](Bright Int. School Project.jpeg)
 
