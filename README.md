@@ -28,8 +28,8 @@ Improving academic outcomes through these interventions is expected to strengthe
 ![Image](Bright Int. School Project.jpeg)
 
 # Contact
-Email: [adebukolazainab5@gmail.com](https://mail.google.com/mail/u/0/#label/adebukolazainab12@gmail.com)
+Email: [adebukolazainab5@gmail.com]
 
 Phone: +2348104452454
 
-LinkedIn: (https://www.linkedin.com/in/zainababdulsalam01?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrMezkWMOTc6YbF8k0Zxihg%3D%3D) 
+LinkedIn: [https://www.linkedin.com/in/zainababdulsalam01?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrMezkWMOTc6YbF8k0Zxihg%3D%3D] 
