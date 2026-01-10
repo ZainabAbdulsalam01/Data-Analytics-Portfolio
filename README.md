@@ -27,6 +27,18 @@ Improving academic outcomes through these interventions is expected to strengthe
 
 ![Image](Bright Int. School Project.jpeg)
 
+
+## Patients' Admission Analysis
+
+In this project I analyzed patient admissions at WellLife Hospital over a four-year period (2021–2024), focusing on seven major diagnoses: Asthma, Diabetes, Hypertension, Malaria, Typhoid, Ulcer, and Stroke. The primary objective of this analysis is to support data-driven decision-making aimed at improving resource allocation, operational efficiency, and patient care delivery.
+The analysis covers 10,000 patient records and reveals that male patients (56.81%) outnumber female patients (43.19%). Admission trends show a consistent year-on-year increase, indicating rising healthcare demand. Patients under the age of 21 account for a minimal share of admissions, suggesting that hospital utilization is significantly higher among adults and older populations.
+Key findings indicate that Typhoid recorded the highest number of cases between 2021 and 2023, predominantly among individuals aged 21–40 years. However, there was a sharp decline in typhoid cases in Q1 2024, with no recorded cases thereafter—likely due to improved environmental sanitation and public health sensitization. A similar trend is observed with Malaria, which declined significantly in Q3 2024 and recorded no subsequent admissions.
+Asthma and Hypertension affect both genders almost equally. Asthma is most prevalent among the economically active population (21–50 years), potentially linked to workplace exposure, urban pollution, and stress. Hypertension is most common among older adults (41–70 years) and has shown a steady increase over the years. Both conditions require gender-inclusive intervention strategies.
+Conversely, Ulcer, Diabetes, and Stroke are male-dominated diagnoses, primarily affecting middle-aged, older, and elderly populations. These conditions show a consistent upward trend across the four years and may be strongly associated with lifestyle and dietary habits. Increased health awareness among men, especially as they age, is essential.
+Based on these findings, it is recommended that WellLife Hospital reallocates resources toward high-growth and high-burden diagnoses—specifically Asthma, Hypertension, Diabetes, Ulcer, and Stroke, while reducing investment in declining cases such as Typhoid and Malaria. This strategic shift will help eliminate waste, optimize spending, and enhance patient care outcomes.
+[View Report Here](https://drive.google.com/file/d/1d_DuM_Rz1dP8ISMKsdwNkLGbkFDLwr9_/view?usp=drive_link)
+
+
 # Contact
 Email: adebukolazainab5@gmail.com
 
