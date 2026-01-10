@@ -38,6 +38,8 @@ Conversely, Ulcer, Diabetes, and Stroke are male-dominated diagnoses, primarily 
 Based on these findings, it is recommended that WellLife Hospital reallocates resources toward high-growth and high-burden diagnoses—specifically Asthma, Hypertension, Diabetes, Ulcer, and Stroke, while reducing investment in declining cases such as Typhoid and Malaria. This strategic shift will help eliminate waste, optimize spending, and enhance patient care outcomes.
 [View Report Here](https://drive.google.com/file/d/1d_DuM_Rz1dP8ISMKsdwNkLGbkFDLwr9_/view?usp=drive_link)
 
+![Image](wellLife Hospital Dashboard Portfolio.jpeg)
+
 
 # Contact
 Email: adebukolazainab5@gmail.com
