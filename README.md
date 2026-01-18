@@ -42,6 +42,20 @@ Based on these findings, it is recommended that WellLife Hospital reallocates re
 ![Image](wellLife Hospital Dashboard Portfolio.jpeg)
 
 
+## HR Attrition Analysis
+
+In this project, I analyzed a datase of 780 Employees. I uncovered key patterns and drivers behind why staff leave a particular Organization.
+
+Quick Facts about the organization
+Total Staff: 780
+Attrition (Staff): 234
+Active Staff: 546
+Attrition Rate: 30%
+[Read More](https://www.linkedin.com/posts/zainababdulsalam01_dataanalytics-excel-attritionanalysis-activity-7400093613692547072-SNWH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
+
+
+
+
 # Contact
 Email: adebukolazainab5@gmail.com
 
