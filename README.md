@@ -24,7 +24,7 @@ In this project, I analyzed student academic performance at Bright International
 Data from a dataset of 1,000 students indicates an overall average student score of 67.77%. The analysis reveals that test preparation, lunch type (a proxy for socioeconomic status), parental education level, and race/ethnicity have measurable impacts on student performance.
 Key findings show that students who completed a test preparation course achieved an average score of 72.67%, outperforming those who did not (65.04%) by 7.63 percentage points. Similarly, students with standard lunch options scored 70.84%, compared to 62.20% for students on free/reduced lunch, a gap of 8.64 percentage points, highlighting the influence of socioeconomic factors.
 Parental education also plays a significant role. Students whose parents held a Master’s degree achieved average score of (73.60%). The analysis suggests that combining test preparation programs and improved nutrition access could increase the overall average score from 67.77% to 75.51%. With stronger parental engagement and educational support, average performance could rise further to 82.63%.
-Improving academic outcomes through these interventions is expected to strengthen the school’s reputation, leading to higher student enrollment and retention. [View Report Here](https://drive.google.com/file/d/1lUpKFwB76FUr5N4oTAff5mus-Egkzanr/view?usp=sharing)
+Improving academic outcomes through these interventions is expected to strengthen the school’s reputation, leading to higher student enrollment and retention. [View Report](https://drive.google.com/file/d/1lUpKFwB76FUr5N4oTAff5mus-Egkzanr/view?usp=sharing)
 
 ![Image](Bright Int. School Project.jpeg)
 
@@ -37,7 +37,7 @@ Key findings indicate that Typhoid recorded the highest number of cases between 
 Asthma and Hypertension affect both genders almost equally. Asthma is most prevalent among the economically active population (21–50 years), potentially linked to workplace exposure, urban pollution, and stress. Hypertension is most common among older adults (41–70 years) and has shown a steady increase over the years. Both conditions require gender-inclusive intervention strategies.
 Conversely, Ulcer, Diabetes, and Stroke are male-dominated diagnoses, primarily affecting middle-aged, older, and elderly populations. These conditions show a consistent upward trend across the four years and may be strongly associated with lifestyle and dietary habits. Increased health awareness among men, especially as they age, is essential.
 Based on these findings, it is recommended that WellLife Hospital reallocates resources toward high-growth and high-burden diagnoses—specifically Asthma, Hypertension, Diabetes, Ulcer, and Stroke, while reducing investment in declining cases such as Typhoid and Malaria. This strategic shift will help eliminate waste, optimize spending, and enhance patient care outcomes.
-[View Report Here](https://drive.google.com/file/d/1d_DuM_Rz1dP8ISMKsdwNkLGbkFDLwr9_/view?usp=drive_link)
+[View Report](https://drive.google.com/file/d/1d_DuM_Rz1dP8ISMKsdwNkLGbkFDLwr9_/view?usp=drive_link)
 
 ![Image](wellLife Hospital Dashboard Portfolio.jpeg)
 
@@ -53,7 +53,7 @@ Active Staff: 546
 Attrition Rate: 30%
 [Read More](https://www.linkedin.com/posts/zainababdulsalam01_dataanalytics-excel-attritionanalysis-activity-7400093613692547072-SNWH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
 
-
+![Image]()
 
 
 # Contact
