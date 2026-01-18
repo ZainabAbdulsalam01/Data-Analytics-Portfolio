@@ -11,7 +11,7 @@ Data Visualization - (Power BI, Excel)
 Dashboard and Report Building
 
 A selection of Dashboards I have designed and Developed
-![Image](Oil Rig Dashboard.jpeg) ![Image]()
+![Image](Oil Rig Dashboard.jpeg) ![Image](Real Estate DB.jpeg)
 
 
 # MY PROJECTS
