@@ -53,7 +53,7 @@ Active Staff: 546
 Attrition Rate: 30%
 [Read More](https://www.linkedin.com/posts/zainababdulsalam01_dataanalytics-excel-attritionanalysis-activity-7400093613692547072-SNWH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
 
-![Image]()
+![Image](HR Attrition Dashboard.jpeg)
 
 
 # Contact
