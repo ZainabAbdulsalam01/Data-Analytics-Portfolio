@@ -20,6 +20,7 @@ A selection of Dashboards I have designed
 ![Image](Real Estate DB.jpeg)
 
 
+
 # MY PROJECTS
 
 ## Students' Performance Analysis
@@ -31,6 +32,7 @@ Parental education also plays a significant role. Students whose parents held a 
 Improving academic outcomes through these interventions is expected to strengthen the school’s reputation, leading to higher student enrollment and retention. [View Report](https://drive.google.com/file/d/1lUpKFwB76FUr5N4oTAff5mus-Egkzanr/view?usp=sharing)
 
 ![Image](Bright Int. School Project.jpeg)
+
 
 
 ## Patients' Admission Analysis
@@ -46,6 +48,7 @@ Based on these findings, it is recommended that WellLife Hospital reallocates re
 ![Image](wellLife dashboard edit.jpeg)
 
 
+
 ## HR Attrition Analysis
 
 In this project, I analyzed a datase of 780 Employees. I uncovered key patterns and drivers behind why staff leave a particular Organization.
@@ -58,6 +61,7 @@ Attrition Rate: 30%
 [Read More](https://www.linkedin.com/posts/zainababdulsalam01_dataanalytics-excel-attritionanalysis-activity-7400093613692547072-SNWH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
 
 ![Image](HR Attrition Dashboard.jpeg)
+
 
 
 # Contact
