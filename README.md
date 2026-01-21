@@ -10,10 +10,14 @@ Data Visualization - (Power BI, Excel)
 
 Dashboard and Report Building
 
-A selection of Dashboards I have designed and Developed
-![Image](Oil Rig Dashboard.jpeg) Dashboard created in Power BI.
+A selection of Dashboards I have designed
 
-![Image](Real Estate DB.jpeg) Dashboard created in Excel.
+ Dashboard I built in Power BI
+![Image](Oil Rig Dashboard.jpeg)
+
+
+ Dashboard I built in Excel
+![Image](Real Estate DB.jpeg)
 
 
 # MY PROJECTS
@@ -39,7 +43,7 @@ Conversely, Ulcer, Diabetes, and Stroke are male-dominated diagnoses, primarily 
 Based on these findings, it is recommended that WellLife Hospital reallocates resources toward high-growth and high-burden diagnoses—specifically Asthma, Hypertension, Diabetes, Ulcer, and Stroke, while reducing investment in declining cases such as Typhoid and Malaria. This strategic shift will help eliminate waste, optimize spending, and enhance patient care outcomes.
 [View Report](https://drive.google.com/file/d/1d_DuM_Rz1dP8ISMKsdwNkLGbkFDLwr9_/view?usp=drive_link)
 
-![Image](wellLife Hospital Dashboard Portfolio.jpeg)
+![Image](wellLife dashboard edit.jpeg)
 
 
 ## HR Attrition Analysis
