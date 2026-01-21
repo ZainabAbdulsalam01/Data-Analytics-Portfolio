@@ -1,17 +1,18 @@
 # Data-Analytics-Portfolio
 ## ABOUT ME
-Hello! I am Zainab Abdulsalam, an Economics graduate and Data Analytics professional. I am passionate about turning data into insight. I transform raw and complex information into clear, actionable narratives that support informed decision-making and business growth.
+Hello! I am Zainab Abdulsalam, an Economics graduate and Data Analyst. I transform raw and complex information into clear, actionable narratives that support informed decision-making and business growth.
 With a strong analytical mindset and a commitment to continuous learning, I focus on helping organizations understand their data, solve problems, and make smarter, evidence-based decisions.
 
 ## SKILLS
 Data Cleaning and Tranformation
+[Check here](https://www.linkedin.com/posts/zainababdulsalam01_dataanalytics-dataorganization-datacleaning-activity-7368324473655095298-pxyx?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
 
 Data Visualization - (Power BI, Excel)
 
 Dashboard and Report Building
 
 
-## A selection of Dashboards I have designed
+### A selection of Dashboards I have designed
 
  Dashboard I built in Power BI
 ![Image](Oil Rig Dashboard.jpeg)
