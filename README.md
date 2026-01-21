@@ -49,7 +49,6 @@ Based on these findings, it is recommended that WellLife Hospital reallocates re
 ![Image](wellLife dashboard edit.jpeg)
 
 
-
 ## HR Attrition Analysis
 
 In this project, I analyzed a datase of 780 Employees. I uncovered key patterns and drivers behind why staff leave a particular Organization.
@@ -76,6 +75,9 @@ I analyzed the sales revenue of an E-commerce store with two clear goals:
 
 
 ![Image](Ahiva ecommerce dashboard !.jpeg)
+![Image](Ahiva ecommerce dash 2.jpeg)
+
+
 
 # Contact
 Email: adebukolazainab5@gmail.com
