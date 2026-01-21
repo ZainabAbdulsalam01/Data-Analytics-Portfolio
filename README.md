@@ -75,6 +75,8 @@ I analyzed the sales revenue of an E-commerce store with two clear goals:
 [final Report](https://www.linkedin.com/posts/zainababdulsalam01_dataanalytics-ecommerce-datastorytelling-activity-7377673162475573248-7Uul?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
 
 
+![Image](Ahiva ecommerce dashboard !.jpeg)
+
 # Contact
 Email: adebukolazainab5@gmail.com
 
