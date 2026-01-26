@@ -24,9 +24,11 @@ Dashboard and Report Building
 
 
 
+
+
 # MY PROJECTS
 
-## Students' Performance Analysis
+### Students' Performance Analysis
 
 In this project, I analyzed the academic performance of 1,000 students at Bright International Schools during the 2024/2025 session to uncover key drivers of student outcomes and recommend targeted interventions. The study found an overall average score of 67.77%, with significant performance gaps influenced by test preparation, socioeconomic status (lunch type), parental education, and race/ethnicity. Students who completed test preparation courses scored 7.63 points higher, while those with standard lunch options outperformed peers on free/reduced lunch by 8.64 points. Parental education showed strong impact, with children of Master’s degree holders averaging 73.60%. Modeling indicates that combining test preparation programs with improved nutrition access could raise average scores to 75.51%, and with enhanced parental engagement, performance could reach 82.63%. These insights highlight actionable strategies to boost academic achievement, strengthen school reputation, and drive higher student retention and enrollment. [View Report](https://drive.google.com/file/d/1lUpKFwB76FUr5N4oTAff5mus-Egkzanr/view?usp=sharing)
 
@@ -34,7 +36,7 @@ In this project, I analyzed the academic performance of 1,000 students at Bright
 
 
 
-## Patients' Admission Analysis
+### Patients' Admission Analysis
 
 I conducted a four-year analysis (2021–2024) of 10,000 patient admissions at WellLife Hospital, focusing on seven major diagnoses—Asthma, Diabetes, Hypertension, Malaria, Typhoid, Ulcer, and Stroke—to support data-driven decision-making in healthcare. The study revealed rising admissions overall, with male patients (56.81%) outnumbering females (43.19%), and adults forming the majority of cases. While Typhoid and Malaria declined sharply in 2024 due to improved public health measures, chronic conditions such as Asthma, Hypertension, Diabetes, Ulcer, and Stroke showed consistent growth, particularly among middle-aged and older populations. Based on these insights, I recommended reallocating hospital resources toward high-burden chronic diseases and reducing investment in declining infectious cases, enabling WellLife Hospital to optimize spending, improve operational efficiency, and enhance patient care outcomes.
 [View Report](https://drive.google.com/file/d/1d_DuM_Rz1dP8ISMKsdwNkLGbkFDLwr9_/view?usp=drive_link)
@@ -42,7 +44,7 @@ I conducted a four-year analysis (2021–2024) of 10,000 patient admissions at W
 ![Image](wellLife dashboard edit.jpeg)
 
 
-## HR Attrition Analysis
+### HR Attrition Analysis
 
 In this project, I analyzed a datase of 780 Employees. I uncovered key patterns and drivers behind why staff leave a particular Organization.
 
@@ -56,7 +58,7 @@ Attrition Rate: 30%
 ![Image](HR Attrition Dashboard.jpeg)
 
 
-## E-Commerce Store Revenue Analysis
+### E-Commerce Store Revenue Analysis
 
 I analyzed the sales revenue of an E-commerce store with two clear goals:
 - Help the business understand how money flows across operations.
@@ -73,7 +75,7 @@ I analyzed the sales revenue of an E-commerce store with two clear goals:
 
 
 
-# Contact
+## Contact Details
 Email: adebukolazainab5@gmail.com
 
 Phone: +2348104452454
