@@ -36,12 +36,14 @@ In this project, I analyzed the academic performance of 1,000 students at Bright
 
 
 
+
 ### Patients' Admission Analysis
 
 I conducted a four-year analysis (2021–2024) of 10,000 patient admissions at WellLife Hospital, focusing on seven major diagnoses—Asthma, Diabetes, Hypertension, Malaria, Typhoid, Ulcer, and Stroke—to support data-driven decision-making in healthcare. The study revealed rising admissions overall, with male patients (56.81%) outnumbering females (43.19%), and adults forming the majority of cases. While Typhoid and Malaria declined sharply in 2024 due to improved public health measures, chronic conditions such as Asthma, Hypertension, Diabetes, Ulcer, and Stroke showed consistent growth, particularly among middle-aged and older populations. Based on these insights, I recommended reallocating hospital resources toward high-burden chronic diseases and reducing investment in declining infectious cases, enabling WellLife Hospital to optimize spending, improve operational efficiency, and enhance patient care outcomes.
 [View Report](https://drive.google.com/file/d/1d_DuM_Rz1dP8ISMKsdwNkLGbkFDLwr9_/view?usp=drive_link)
 
 ![Image](wellLife dashboard edit.jpeg)
+
 
 
 ### HR Attrition Analysis
@@ -58,20 +60,20 @@ Attrition Rate: 30%
 ![Image](HR Attrition Dashboard.jpeg)
 
 
+
 ### E-Commerce Store Revenue Analysis
 
 I analyzed the sales revenue of an E-commerce store with two clear goals:
 - Help the business understand how money flows across operations.
 - Build actionable, results-driven insights to drive revenue growth.
 [Read More](https://www.linkedin.com/posts/zainababdulsalam01_datastory-datamodelling-dataanalytics-activity-7371456385277980672-It4_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
-
 [Continue Reading](https://www.linkedin.com/posts/zainababdulsalam01_datastorytelling-revenueanalysis-dataanalytics-activity-7375286047045320705-VonL?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
-
 [final Report](https://www.linkedin.com/posts/zainababdulsalam01_dataanalytics-ecommerce-datastorytelling-activity-7377673162475573248-7Uul?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
 
 
 ![Image](Ahiva ecommerce dashboard !.jpeg)
 ![Image](Ahiva ecommerce dash 2.jpeg)
+
 
 
 
