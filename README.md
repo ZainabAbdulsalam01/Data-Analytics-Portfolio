@@ -14,12 +14,13 @@ Dashboard and Report Building
 
 ### A selection of Dashboards I have designed
 
- Dashboard I built in Power BI
+ Dashboard built in Power BI
 ![Image](Oil Rig Dashboard.jpeg)
 
 
- Dashboard I built in Excel
+ Dashboard built in Excel
 ![Image](Real Estate DB.jpeg)
+
 
 
 
@@ -56,6 +57,7 @@ Attrition Rate: 30%
 
 
 ## E-Commerce Store Revenue Analysis
+
 I analyzed the sales revenue of an E-commerce store with two clear goals:
 - Help the business understand how money flows across operations.
 - Build actionable, results-driven insights to drive revenue growth.
@@ -75,5 +77,7 @@ I analyzed the sales revenue of an E-commerce store with two clear goals:
 Email: adebukolazainab5@gmail.com
 
 Phone: +2348104452454
+
+My Resume: 
 
 LinkedIn: [ZainabAbdulsalam](https://www.linkedin.com/in/zainababdulsalam01?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrMezkWMOTc6YbF8k0Zxihg%3D%3D)
