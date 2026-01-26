@@ -67,7 +67,9 @@ I analyzed the sales revenue of an E-commerce store with two clear goals:
 - Help the business understand how money flows across operations.
 - Build actionable, results-driven insights to drive revenue growth.
 [Read More](https://www.linkedin.com/posts/zainababdulsalam01_datastory-datamodelling-dataanalytics-activity-7371456385277980672-It4_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
+
 [Continue Reading](https://www.linkedin.com/posts/zainababdulsalam01_datastorytelling-revenueanalysis-dataanalytics-activity-7375286047045320705-VonL?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
+
 [final Report](https://www.linkedin.com/posts/zainababdulsalam01_dataanalytics-ecommerce-datastorytelling-activity-7377673162475573248-7Uul?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
 
 
