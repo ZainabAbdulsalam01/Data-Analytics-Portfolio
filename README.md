@@ -30,7 +30,8 @@ Dashboard and Report Building
 
 ### Students' Performance Analysis
 
-In this project, I analyzed the academic performance of 1,000 students at Bright International Schools during the 2024/2025 session to uncover key drivers of student outcomes and recommend targeted interventions. The study found an overall average score of 67.77%, with significant performance gaps influenced by test preparation, socioeconomic status (lunch type), parental education, and race/ethnicity. Students who completed test preparation courses scored 7.63 points higher, while those with standard lunch options outperformed peers on free/reduced lunch by 8.64 points. Parental education showed strong impact, with children of Master’s degree holders averaging 73.60%. Modeling indicates that combining test preparation programs with improved nutrition access could raise average scores to 75.51%, and with enhanced parental engagement, performance could reach 82.63%. These insights highlight actionable strategies to boost academic achievement, strengthen school reputation, and drive higher student retention and enrollment. [View Report](https://drive.google.com/file/d/1lUpKFwB76FUr5N4oTAff5mus-Egkzanr/view?usp=sharing)
+At Bright International School, I helped identify and address key factors influencing student outcomes. Through targeted improvements, the school achieved a **14.86%** increase in academic performance. This measurable progress strengthened student retention and enhanced the school’s reputation, ultimately driving a significant rise in new student enrollment.
+. [View Report](https://drive.google.com/file/d/1lUpKFwB76FUr5N4oTAff5mus-Egkzanr/view?usp=sharing)
 
 ![Image](Bright Int. School Project.jpeg)
 
