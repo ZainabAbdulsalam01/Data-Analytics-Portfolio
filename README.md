@@ -29,7 +29,6 @@ Dashboard and Report Building
 # MY PROJECTS
 
 ### Students' Performance Analysis
-
 At Bright International School, I helped identify and address key factors influencing student outcomes. Through targeted improvements, the school achieved a ****14.86%** increase in academic performance**. This measurable progress strengthened student retention and enhanced the school’s reputation, ultimately driving a significant rise in new student enrollment.
 . [View Report](https://drive.google.com/file/d/1lUpKFwB76FUr5N4oTAff5mus-Egkzanr/view?usp=sharing)
 
@@ -39,9 +38,7 @@ At Bright International School, I helped identify and address key factors influe
 
 
 ### Patients' Admission Analysis
-
 I contributed to enhancing operational efficiency at WellLife Hospital, by analyzing patient admission trends. The findings revealed a significant decline in certain diagnoses, enabling the hospital **to restrategize resource allocation toward predominant illnesses**. This optimization reduced wastage, improved patient care delivery, and ultimately led to increased revenue.
-
 [View Report](https://drive.google.com/file/d/1d_DuM_Rz1dP8ISMKsdwNkLGbkFDLwr9_/view?usp=drive_link)
 
 ![Image](wellLife dashboard edit.jpeg)
@@ -49,7 +46,6 @@ I contributed to enhancing operational efficiency at WellLife Hospital, by analy
 
 
 ### HR Attrition Analysis
-
 In this project, I analyzed a datase of 780 Employees. I uncovered key patterns and drivers behind why staff leave a particular Organization.
 
 Quick Facts about the organization
@@ -64,7 +60,6 @@ Attrition Rate: 30%
 
 
 ### E-Commerce Store Revenue Analysis
-
 I analyzed the sales revenue of an E-commerce store with two clear goals:
 - Help the business understand how money flows across operations.
 - Build actionable, results-driven insights to drive revenue growth.
