@@ -30,7 +30,7 @@ Dashboard and Report Building
 
 ### Students' Performance Analysis
 
-At Bright International School, I helped identify and address key factors influencing student outcomes. Through targeted improvements, the school achieved a **14.86%** increase in academic performance. This measurable progress strengthened student retention and enhanced the school’s reputation, ultimately driving a significant rise in new student enrollment.
+At Bright International School, I helped identify and address key factors influencing student outcomes. Through targeted improvements, the school achieved a ****14.86%** increase in academic performance**. This measurable progress strengthened student retention and enhanced the school’s reputation, ultimately driving a significant rise in new student enrollment.
 . [View Report](https://drive.google.com/file/d/1lUpKFwB76FUr5N4oTAff5mus-Egkzanr/view?usp=sharing)
 
 ![Image](Bright Int. School Project.jpeg)
@@ -40,7 +40,8 @@ At Bright International School, I helped identify and address key factors influe
 
 ### Patients' Admission Analysis
 
-I conducted a four-year analysis (2021–2024) of 10,000 patient admissions at WellLife Hospital, focusing on seven major diagnoses—Asthma, Diabetes, Hypertension, Malaria, Typhoid, Ulcer, and Stroke—to support data-driven decision-making in healthcare. The study revealed rising admissions overall, with male patients (56.81%) outnumbering females (43.19%), and adults forming the majority of cases. While Typhoid and Malaria declined sharply in 2024 due to improved public health measures, chronic conditions such as Asthma, Hypertension, Diabetes, Ulcer, and Stroke showed consistent growth, particularly among middle-aged and older populations. Based on these insights, I recommended reallocating hospital resources toward high-burden chronic diseases and reducing investment in declining infectious cases, enabling WellLife Hospital to optimize spending, improve operational efficiency, and enhance patient care outcomes.
+I contributed to enhancing operational efficiency at WellLife Hospital, by analyzing patient admission trends. The findings revealed a significant decline in certain diagnoses, enabling the hospital **to restrategize resource allocation toward predominant illnesses**. This optimization reduced wastage, improved patient care delivery, and ultimately led to increased revenue.
+
 [View Report](https://drive.google.com/file/d/1d_DuM_Rz1dP8ISMKsdwNkLGbkFDLwr9_/view?usp=drive_link)
 
 ![Image](wellLife dashboard edit.jpeg)
