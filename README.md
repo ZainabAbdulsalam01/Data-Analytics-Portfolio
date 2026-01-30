@@ -41,7 +41,7 @@ I contributed to enhancing operational efficiency at WellLife Hospital, by analy
 [View Report](https://drive.google.com/file/d/1d_DuM_Rz1dP8ISMKsdwNkLGbkFDLwr9_/view?usp=drive_link)
 
 ![Image](wellLife dashboard edit.jpeg)
-
+[Interract with the Dashboard Here](https://app.powerbi.com/groups/me/reports/975b8caa-df0b-4314-b238-40536ab92c9a?ctid=fb88ab3c-e5b3-4429-9043-550d6e8ef057&pbi_source=linkShare)
 
 
 ### HR Attrition Analysis
