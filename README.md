@@ -71,7 +71,7 @@ I analyzed the sales revenue of an E-commerce store with two clear goals:
 
 ![Image](Ahiva ecommerce dashboard !.jpeg)
 ![Image](Ahiva ecommerce dash 2.jpeg)
-
+[Interract with the Dashboard Here](https://app.powerbi.com/groups/me/reports/8b73ab91-2ead-48a8-9140-7a6a3c9964ce?ctid=fb88ab3c-e5b3-4429-9043-550d6e8ef057&pbi_source=linkShare)
 
 
 
