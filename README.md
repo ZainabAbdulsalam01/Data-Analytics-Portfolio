@@ -32,7 +32,7 @@ Dashboard and Report Building
 At Bright International School, I helped identify and address key factors influencing student outcomes. Through targeted improvements, the school achieved a **14.86% increase in academic performance**. This measurable progress strengthened student retention and enhanced the school’s reputation, ultimately driving a significant rise in new student enrollment. [View Report](https://drive.google.com/file/d/1lUpKFwB76FUr5N4oTAff5mus-Egkzanr/view?usp=sharing)
 
 ![Image](Bright Int. School Project.jpeg)
-
+[Interract with the Dashboard here](https://app.powerbi.com/groups/me/reports/b301da21-0492-4e97-8168-eba2ea510108?ctid=fb88ab3c-e5b3-4429-9043-550d6e8ef057&pbi_source=linkShare)
 
 
 
