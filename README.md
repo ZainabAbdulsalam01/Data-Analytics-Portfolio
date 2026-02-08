@@ -80,6 +80,6 @@ Email: adebukolazainab5@gmail.com
 
 Phone: +2348104452454
 
-[My Resume](Zainab-Abdulsalam-Data Analyst Resume.pdf)
+[My CV]()
 
 LinkedIn: [ZainabAbdulsalam](https://www.linkedin.com/in/zainababdulsalam01?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrMezkWMOTc6YbF8k0Zxihg%3D%3D)
