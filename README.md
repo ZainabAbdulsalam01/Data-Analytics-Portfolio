@@ -60,7 +60,7 @@ Attrition Rate: 30%
 
 ### Sales Performance Analysis
 Analyzed Velora Stores’ sales performance (Jan 2020–Jul 2021) to identify revenue drivers and causes of the sharp 2021 decline. The analysis revealed heavy revenue concentration, declining customer value, and a possible operational disruption. Recommendations focus on validating operations, strengthening top-performing products, and improving pricing and customer targeting to drive revenue growth.
-[Read More]
+[Read More](SALES PERFORMANCE REPORT.pdf)
 
 
 ## Contact Details
