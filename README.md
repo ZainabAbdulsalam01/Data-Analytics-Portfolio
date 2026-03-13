@@ -58,22 +58,9 @@ Attrition Rate: 30%
 ![Image](HR Attrition Dashboard.jpeg)
 
 
-
-### E-Commerce Store Revenue Analysis
-I analyzed the sales revenue of an E-commerce store with two clear goals:
-- Help the business understand how money flows across operations.
-- Build actionable, results-driven insights to drive revenue growth.
-[Read More](https://www.linkedin.com/posts/zainababdulsalam01_datastory-datamodelling-dataanalytics-activity-7371456385277980672-It4_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
-
-[Continue Reading](https://www.linkedin.com/posts/zainababdulsalam01_datastorytelling-revenueanalysis-dataanalytics-activity-7375286047045320705-VonL?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
-
-[final Report](https://www.linkedin.com/posts/zainababdulsalam01_dataanalytics-ecommerce-datastorytelling-activity-7377673162475573248-7Uul?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
-
-
-![Image](Ahiva ecommerce dashboard !.jpeg)
-![Image](Ahiva ecommerce dash 2.jpeg)
-[Interract with the Dashboard Here](https://app.powerbi.com/groups/me/reports/8b73ab91-2ead-48a8-9140-7a6a3c9964ce?ctid=fb88ab3c-e5b3-4429-9043-550d6e8ef057&pbi_source=linkShare)
-
+### Sales Performance Analysis
+Analyzed Velora Stores’ sales performance (Jan 2020–Jul 2021) to identify revenue drivers and causes of the sharp 2021 decline. The analysis revealed heavy revenue concentration, declining customer value, and a possible operational disruption. Recommendations focus on validating operations, strengthening top-performing products, and improving pricing and customer targeting to drive revenue growth.
+[Read More]
 
 
 ## Contact Details
