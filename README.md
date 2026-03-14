@@ -30,9 +30,9 @@ Dashboard and Report Building
 
 
 
-# MY PROJECTS
+## PROJECTS I HAVE WORKED ON
 
-### Students' Performance Analysis
+### 1. Students' Performance Analysis
 At Bright International School, I helped identify and address key factors influencing student outcomes. Through targeted improvements, the school achieved a **14.86% increase in academic performance**. This measurable progress strengthened student retention and enhanced the school’s reputation, ultimately driving a significant rise in new student enrollment. [View Report](https://drive.google.com/file/d/1lUpKFwB76FUr5N4oTAff5mus-Egkzanr/view?usp=sharing)
 
 ![Image](Bright Int. School Project.jpeg)
@@ -40,7 +40,7 @@ At Bright International School, I helped identify and address key factors influe
 
 
 
-### Patients' Admission Analysis
+### 2. Patients' Admission Analysis
 I contributed to enhancing operational efficiency at WellLife Hospital, by analyzing patient admission trends. The findings revealed a significant decline in certain diagnoses, enabling the hospital **to restrategize resource allocation toward predominant illnesses**. This optimization reduced wastage, improved patient care delivery, and ultimately led to increased revenue.
 [View Report](https://drive.google.com/file/d/1d_DuM_Rz1dP8ISMKsdwNkLGbkFDLwr9_/view?usp=drive_link)
 
@@ -48,7 +48,7 @@ I contributed to enhancing operational efficiency at WellLife Hospital, by analy
 [Interract with the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiZjhjMzBmODEtZmRhOC00MDgxLTk2NjgtYzMyN2E2NTkwNGE4IiwidCI6ImZiODhhYjNjLWU1YjMtNDQyOS05MDQzLTU1MGQ2ZThlZjA1NyJ9)
 
 
-### HR Attrition Analysis
+### 3. HR Attrition Analysis
 In this project, I analyzed a datase of 780 Employees. I uncovered key patterns and drivers behind why staff leave a particular Organization.
 
 Quick Facts about the organization
@@ -62,7 +62,7 @@ Attrition Rate: 30%
 [Interract with the Dashboard here](https://1drv.ms/x/c/94db7e40c894e793/IQDe_58PUxB9TJeC5num-BS6AaapWFqo4NgJ_TTzVr4NQY0?e=YxdHqN)
 
 
-### Sales Performance Analysis
+### 4. Sales Performance Analysis
 Analyzed Velora Stores’ sales performance (Jan 2020–Jul 2021) to identify revenue drivers and causes of the sharp 2021 decline. The analysis revealed heavy revenue concentration, declining customer value, and a possible operational disruption. Recommendations focus on validating operations, strengthening top-performing products, and improving pricing and customer targeting to drive revenue growth. [Read More](SALES PERFORMANCE REPORT.pdf)
 ![Image](Velora Sales Performance.jpeg)
 ![Image](Velora 2.jpeg)
