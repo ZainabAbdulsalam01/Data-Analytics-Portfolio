@@ -71,6 +71,5 @@ Email: adebukolazainab5@gmail.com
 
 Phone: +2348104452454
 
-[My CV](https://drive.google.com/file/d/1D6yIfb5gOQYHjxI3m8udnmVtGd1IOHNu/view?usp=sharing)
-
+[My CV](https://drive.google.com/file/d/1gCRUpjWqxnEiZ1X5AlpyMoq54p5Gh_bE/view?usp=sharing)
 LinkedIn: [ZainabAbdulsalam](https://www.linkedin.com/in/zainababdulsalam01?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrMezkWMOTc6YbF8k0Zxihg%3D%3D)
