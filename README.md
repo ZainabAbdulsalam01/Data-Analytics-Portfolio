@@ -61,6 +61,7 @@ Based on these insights, I recommended targeted retention strategies including *
 This project analyzed Velora Stores’ sales performance, revealing a **51%** revenue decline in the first Year and a sharp **−99%** drop in the second year, indicating possible operational or data disruptions.
 Through the analysis, I identified key issues such as **revenue concentration in few products/regions, declining customer value, and regional performance gaps** affecting overall sales stability.
 Based on these insights, I recommended **validating operations, strengthening high-performing products, improving pricing and basket size, and prioritizing high-value customers and channels**. [Read More](SALES PERFORMANCE REPORT.pdf)
+
 ![Image](Velora Sales Performance.jpeg)
 ![Image](Velora 2.jpeg)
 [Interract with the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiODRmZGRjMjQtYWVkMC00ZWYxLTkzNDMtNmEzOWRiY2JlMWY5IiwidCI6ImZiODhhYjNjLWU1YjMtNDQyOS05MDQzLTU1MGQ2ZThlZjA1NyJ9)
