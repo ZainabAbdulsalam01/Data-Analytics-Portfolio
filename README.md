@@ -58,7 +58,7 @@ Based on these insights, I recommended targeted retention strategies including *
 
 
 ### 4. Sales Performance Analysis
-This project analyzed Velora Stores’ sales performance (Jan 2020–Jul 2021), revealing a **51%** revenue decline in 2021 and a sharp **−99%** drop in July, indicating possible operational or data disruptions.
+This project analyzed Velora Stores’ sales performance, revealing a **51%** revenue decline in the first Year and a sharp **−99%** drop in the second year, indicating possible operational or data disruptions.
 Through the analysis, I identified key issues such as **revenue concentration in few products/regions, declining customer value, and regional performance gaps** affecting overall sales stability.
 Based on these insights, I recommended **validating operations, strengthening high-performing products, improving pricing and basket size, and prioritizing high-value customers and channels**. [Read More](SALES PERFORMANCE REPORT.pdf)
 ![Image](Velora Sales Performance.jpeg)
