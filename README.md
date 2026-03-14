@@ -59,6 +59,7 @@ Attrition Rate: 30%
 [Read More](https://www.linkedin.com/posts/zainababdulsalam01_dataanalytics-excel-attritionanalysis-activity-7400093613692547072-SNWH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
 
 ![Image](HR Attrition Dashboard.jpeg)
+[Interract with the Dashboard here](https://1drv.ms/x/c/94db7e40c894e793/IQDe_58PUxB9TJeC5num-BS6AaapWFqo4NgJ_TTzVr4NQY0?e=YxdHqN)
 
 
 ### Sales Performance Analysis
