@@ -50,7 +50,7 @@ I contributed to enhancing operational efficiency at WellLife Hospital, by analy
 
 ### 3. HR Attrition Analysis
 This project analyzed employee attrition, I identified the key factors driving a high 30% staff turnover in an organization.
-Through data analysis of 780 employees, I uncovered patterns related to age, salary level, department, job role, and employee satisfaction that contributed to staff leaving.
+Through data analysis of **780 employees**, I uncovered patterns related to age, salary level, department, job role, and employee satisfaction that contributed to staff leaving.
 Based on these insights, I recommended targeted retention strategies including **improved remuneration, employee welfare, career development, and focused support for high-risk groups** to reduce attrition. [Read More](https://www.linkedin.com/posts/zainababdulsalam01_dataanalytics-excel-attritionanalysis-activity-7400093613692547072-SNWH?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
 
 ![Image](HR Attrition Dashboard.jpeg)
