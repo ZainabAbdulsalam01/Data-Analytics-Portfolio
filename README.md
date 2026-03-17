@@ -4,18 +4,22 @@ Hello! I am Zainab Abdulsalam, an Economics graduate and Data Analyst. I transfo
 With a strong analytical mindset and a commitment to continuous learning, I focus on helping organizations understand their data, solve problems, and make smarter, evidence-based decisions.
 
 ## SKILLS
-Data Cleaning and Tranformation
+- Data Cleaning and Tranformation
 [Check here](https://www.linkedin.com/posts/zainababdulsalam01_dataanalytics-dataorganization-datacleaning-activity-7368324473655095298-pxyx?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUYo5MBDWF5XCVxKCi7QAvC1ZPYbNsljuw)
 
-Data Visualization - (Power BI, Excel)
+- Data Visualization And Dashboard - (Power BI, Excel)
 
-Dashboard and Report Building
+- Automation
+
+- Report Writings
+
+- AI-Enhanced Data Analytics
 
 
 ### A selection of Dashboards I have designed
 
  Dashboard built in Power BI
-![Image](Oil Rig Dashboard.jpeg)
+![Image](OIL RIG.jpeg)
 [Interract with the Dashboard here](https://app.powerbi.com/view?r=eyJrIjoiZmFlZmMzZmMtZjMwYS00NmEwLWIyYTItNzFjYTQ5Y2YzZmFlIiwidCI6ImZiODhhYjNjLWU1YjMtNDQyOS05MDQzLTU1MGQ2ZThlZjA1NyJ9)
 
 
