@@ -19,7 +19,7 @@ With a strong analytical mindset and a commitment to continuous learning, I focu
 ### A selection of Dashboards I have designed
 
 Dashboard built in Power BI
-#### ![Image](OIL RIG.jpeg)
+## ![Image](OIL RIG.jpeg)
 [Interract with the Dashboard here](https://app.powerbi.com/view?r=eyJrIjoiZmFlZmMzZmMtZjMwYS00NmEwLWIyYTItNzFjYTQ5Y2YzZmFlIiwidCI6ImZiODhhYjNjLWU1YjMtNDQyOS05MDQzLTU1MGQ2ZThlZjA1NyJ9)
 
 Dashboard built in Excel
