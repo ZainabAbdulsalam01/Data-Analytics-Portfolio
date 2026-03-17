@@ -11,7 +11,7 @@ With a strong analytical mindset and a commitment to continuous learning, I focu
 
 - Automation
 
-- Report Writings
+- Report Writing
 
 - AI-Enhanced Data Analytics
 
