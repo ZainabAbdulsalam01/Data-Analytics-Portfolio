@@ -70,7 +70,7 @@ Based on these insights, I recommended **validating operations, strengthening hi
 [Interract with the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiODRmZGRjMjQtYWVkMC00ZWYxLTkzNDMtNmEzOWRiY2JlMWY5IiwidCI6ImZiODhhYjNjLWU1YjMtNDQyOS05MDQzLTU1MGQ2ZThlZjA1NyJ9)
 
 ## Contact Details
-Email: adebukolazainab5@gmail.com
+Email: zainababdulsalam5511@gmail.com
 
 Phone: +2348104452454
 
